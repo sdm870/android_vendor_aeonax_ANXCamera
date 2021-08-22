@@ -3,7 +3,7 @@
 ### Cloning :
 - Clone this repo in vendor/aeonax/ANXCamera in your working directory by :
 ```
-git clone https://github.com/sdm870/android_vendor_aeonax_anxcamera -b master vendor/aeonax/ANXCamera 
+git clone https://gitlab.com/sdm870/android_vendor_aeonax_anxcamera -b master vendor/aeonax/ANXCamera 
 ```
 ### Changes Required :
 - In BoardConfig.mk
